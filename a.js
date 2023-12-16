@@ -1,4 +1,5 @@
 // learning javascript
+//this is not part of the project
 // const number = ['1','2','3','4','5','6']
 // console.log(number.length);
 // let you = []
